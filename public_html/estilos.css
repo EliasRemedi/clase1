@@ -10,11 +10,15 @@ header>ul>li>a{
     color: black;
     text-decoration: none;
 }
+h1{
+    font-size: 40px;
+    color: blue;
+}
 h3{
     color: blue;
 }
 #bloque-derecho{
-    color: brown;
+    color: black;
 }
 .lista-curio{
     color: chartreuse;
